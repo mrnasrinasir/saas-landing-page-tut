@@ -1,9 +1,5 @@
-# React + Vite
+# SAAS Landing Page Tutorial from JS Mastery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# saas-landing-page-tut
+This file is a tutorial after following JS Mastery SAAS Tutorial
+The link teaches me how to use React Components to build a landing page.
+The tutorial can be found here. https://www.youtube.com/watch?v=ukiGFmZ32YA&t=8660s&ab_channel=JavaScriptMastery
